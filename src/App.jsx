@@ -10,6 +10,8 @@ const pokemonList = [
   },
 ];
 
+
+
 function App(){
 return (
 <div>
